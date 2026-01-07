@@ -1,0 +1,1128 @@
+MPI startup(): shm:tcp fabric is unknown or has been removed from the product, please use ofi or shm:ofi instead.
+ warning: current method for setting time step does not use material properties
+ and mesh information from files (only scalars from btp%... in input file are us
+ ed)
+ traditional_6_pml-on_anelastic-c2_A_v3                                         
+                                                                                
+                                                                                
+                    
+ Domain time parameters :
+         Number of time steps =          554
+         Initial dt =   1.443386257845433E-002
+         Final time =    8.00000000000000     
+  0.000000000000000E+000           1           1          86          71
+  0.000000000000000E+000   17.0000000000000        14.0000000000000     
+  0.000000000000000E+000   17.0000000000000        14.0000000000000     
+  0.000000000000000E+000           2           1          71          86
+  0.000000000000000E+000   14.0000000000000        17.0000000000000     
+  0.000000000000000E+000   14.0000000000000        17.0000000000000     
+ n =            1  of          554  time steps, t =   1.443386257845433E-002 
+  time in time step =   0.579847000000000     
+ n =            2  of          554  time steps, t =   2.886772515690867E-002 
+  time in time step =   0.583688000000000     
+ n =            3  of          554  time steps, t =   4.330158773536300E-002 
+  time in time step =   0.586391000000000     
+ n =            4  of          554  time steps, t =   5.773545031381733E-002 
+  time in time step =   0.584664000000000     
+ n =            5  of          554  time steps, t =   7.216931289227167E-002 
+  time in time step =   0.586673000000000     
+ n =            6  of          554  time steps, t =   8.660317547072600E-002 
+  time in time step =   0.586637000000000     
+ n =            7  of          554  time steps, t =   0.101037038049180      
+  time in time step =   0.584012000000000     
+ n =            8  of          554  time steps, t =   0.115470900627635      
+  time in time step =   0.614949000000000     
+ n =            9  of          554  time steps, t =   0.129904763206089      
+  time in time step =   0.612694000000000     
+ n =           10  of          554  time steps, t =   0.144338625784543      
+  time in time step =   0.614364000000000     
+ n =           11  of          554  time steps, t =   0.158772488362998      
+  time in time step =   0.614764000000000     
+ n =           12  of          554  time steps, t =   0.173206350941452      
+  time in time step =   0.615911000000000     
+ n =           13  of          554  time steps, t =   0.187640213519906      
+  time in time step =   0.615113000000001     
+ n =           14  of          554  time steps, t =   0.202074076098361      
+  time in time step =   0.614790999999999     
+ n =           15  of          554  time steps, t =   0.216507938676815      
+  time in time step =   0.610655000000001     
+ n =           16  of          554  time steps, t =   0.230941801255269      
+  time in time step =   0.612037000000001     
+ n =           17  of          554  time steps, t =   0.245375663833724      
+  time in time step =   0.611048000000000     
+ n =           18  of          554  time steps, t =   0.259809526412178      
+  time in time step =   0.611967999999999     
+ n =           19  of          554  time steps, t =   0.274243388990632      
+  time in time step =   0.611893999999999     
+ n =           20  of          554  time steps, t =   0.288677251569087      
+  time in time step =   0.612166000000000     
+ n =           21  of          554  time steps, t =   0.303111114147541      
+  time in time step =   0.606648000000000     
+ n =           22  of          554  time steps, t =   0.317544976725995      
+  time in time step =   0.611093000000000     
+ n =           23  of          554  time steps, t =   0.331978839304450      
+  time in time step =   0.611644999999999     
+ n =           24  of          554  time steps, t =   0.346412701882904      
+  time in time step =   0.610868000000000     
+ n =           25  of          554  time steps, t =   0.360846564461359      
+  time in time step =   0.611594000000000     
+ n =           26  of          554  time steps, t =   0.375280427039813      
+  time in time step =   0.611322000000001     
+ n =           27  of          554  time steps, t =   0.389714289618267      
+  time in time step =   0.612285000000000     
+ n =           28  of          554  time steps, t =   0.404148152196722      
+  time in time step =   0.611580000000000     
+ n =           29  of          554  time steps, t =   0.418582014775176      
+  time in time step =   0.612213999999998     
+ n =           30  of          554  time steps, t =   0.433015877353630      
+  time in time step =   0.611863000000003     
+ n =           31  of          554  time steps, t =   0.447449739932085      
+  time in time step =   0.610534999999999     
+ n =           32  of          554  time steps, t =   0.461883602510539      
+  time in time step =   0.612229999999997     
+ n =           33  of          554  time steps, t =   0.476317465088993      
+  time in time step =   0.611022000000002     
+ n =           34  of          554  time steps, t =   0.490751327667448      
+  time in time step =   0.611863000000000     
+ n =           35  of          554  time steps, t =   0.505185190245902      
+  time in time step =   0.611142999999998     
+ n =           36  of          554  time steps, t =   0.519619052824356      
+  time in time step =   0.611854999999998     
+ n =           37  of          554  time steps, t =   0.534052915402811      
+  time in time step =   0.611868999999999     
+ n =           38  of          554  time steps, t =   0.548486777981265      
+  time in time step =   0.607839999999999     
+ n =           39  of          554  time steps, t =   0.562920640559720      
+  time in time step =   0.611412999999999     
+ n =           40  of          554  time steps, t =   0.577354503138174      
+  time in time step =   0.611497000000000     
+ n =           41  of          554  time steps, t =   0.591788365716628      
+  time in time step =   0.611547000000002     
+ n =           42  of          554  time steps, t =   0.606222228295083      
+  time in time step =   0.611219000000002     
+ n =           43  of          554  time steps, t =   0.620656090873537      
+  time in time step =   0.611212000000002     
+ n =           44  of          554  time steps, t =   0.635089953451991      
+  time in time step =   0.611180000000001     
+ n =           45  of          554  time steps, t =   0.649523816030446      
+  time in time step =   0.611567000000001     
+ n =           46  of          554  time steps, t =   0.663957678608900      
+  time in time step =   0.611229000000002     
+ n =           47  of          554  time steps, t =   0.678391541187354      
+  time in time step =   0.611859000000003     
+ n =           48  of          554  time steps, t =   0.692825403765809      
+  time in time step =   0.610112999999998     
+ n =           49  of          554  time steps, t =   0.707259266344263      
+  time in time step =   0.611322000000001     
+ n =           50  of          554  time steps, t =   0.721693128922718      
+  time in time step =   0.612237999999998     
+ n =           51  of          554  time steps, t =   0.736126991501172      
+  time in time step =   0.611102000000002     
+ n =           52  of          554  time steps, t =   0.750560854079626      
+  time in time step =   0.612181000000000     
+ n =           53  of          554  time steps, t =   0.764994716658081      
+  time in time step =   0.610683999999999     
+ n =           54  of          554  time steps, t =   0.779428579236535      
+  time in time step =   0.610760999999997     
+ n =           55  of          554  time steps, t =   0.793862441814989      
+  time in time step =   0.610177000000000     
+ n =           56  of          554  time steps, t =   0.808296304393444      
+  time in time step =   0.606209999999997     
+ n =           57  of          554  time steps, t =   0.822730166971898      
+  time in time step =   0.614080000000001     
+ n =           58  of          554  time steps, t =   0.837164029550352      
+  time in time step =   0.611348000000007     
+ n =           59  of          554  time steps, t =   0.851597892128807      
+  time in time step =   0.611449000000000     
+ n =           60  of          554  time steps, t =   0.866031754707261      
+  time in time step =   0.611144999999993     
+ n =           61  of          554  time steps, t =   0.880465617285715      
+  time in time step =   0.611381999999999     
+ n =           62  of          554  time steps, t =   0.894899479864170      
+  time in time step =   0.611397000000004     
+ n =           63  of          554  time steps, t =   0.909333342442624      
+  time in time step =   0.611376999999997     
+ n =           64  of          554  time steps, t =   0.923767205021079      
+  time in time step =   0.611983000000002     
+ n =           65  of          554  time steps, t =   0.938201067599533      
+  time in time step =   0.609845000000000     
+ n =           66  of          554  time steps, t =   0.952634930177987      
+  time in time step =   0.611911000000006     
+ n =           67  of          554  time steps, t =   0.967068792756442      
+  time in time step =   0.611103000000000     
+ n =           68  of          554  time steps, t =   0.981502655334896      
+  time in time step =   0.611626000000001     
+ n =           69  of          554  time steps, t =   0.995936517913350      
+  time in time step =   0.613809000000003     
+ n =           70  of          554  time steps, t =    1.01037038049180      
+  time in time step =   0.612454999999997     
+ n =           71  of          554  time steps, t =    1.02480424307026      
+  time in time step =   0.608522999999998     
+ n =           72  of          554  time steps, t =    1.03923810564871      
+  time in time step =   0.612376000000005     
+ n =           73  of          554  time steps, t =    1.05367196822717      
+  time in time step =   0.610694000000002     
+ n =           74  of          554  time steps, t =    1.06810583080562      
+  time in time step =   0.611156999999999     
+ n =           75  of          554  time steps, t =    1.08253969338408      
+  time in time step =   0.612180000000002     
+ n =           76  of          554  time steps, t =    1.09697355596253      
+  time in time step =   0.610042000000000     
+ n =           77  of          554  time steps, t =    1.11140741854099      
+  time in time step =   0.611994000000003     
+ n =           78  of          554  time steps, t =    1.12584128111944      
+  time in time step =   0.611406000000002     
+ n =           79  of          554  time steps, t =    1.14027514369789      
+  time in time step =   0.611114999999998     
+ n =           80  of          554  time steps, t =    1.15470900627635      
+  time in time step =   0.610312000000000     
+ n =           81  of          554  time steps, t =    1.16914286885480      
+  time in time step =   0.611680999999997     
+ n =           82  of          554  time steps, t =    1.18357673143326      
+  time in time step =   0.610786999999995     
+ n =           83  of          554  time steps, t =    1.19801059401171      
+  time in time step =   0.610652999999999     
+ n =           84  of          554  time steps, t =    1.21244445659017      
+  time in time step =   0.612186999999999     
+ n =           85  of          554  time steps, t =    1.22687831916862      
+  time in time step =   0.610540999999998     
+ n =           86  of          554  time steps, t =    1.24131218174707      
+  time in time step =   0.612161000000000     
+ n =           87  of          554  time steps, t =    1.25574604432553      
+  time in time step =   0.610626000000003     
+ n =           88  of          554  time steps, t =    1.27017990690398      
+  time in time step =   0.609843999999995     
+ n =           89  of          554  time steps, t =    1.28461376948244      
+  time in time step =   0.612012000000000     
+ n =           90  of          554  time steps, t =    1.29904763206089      
+  time in time step =   0.611384000000001     
+ n =           91  of          554  time steps, t =    1.31348149463935      
+  time in time step =   0.611438000000000     
+ n =           92  of          554  time steps, t =    1.32791535721780      
+  time in time step =   0.611722000000000     
+ n =           93  of          554  time steps, t =    1.34234921979625      
+  time in time step =   0.612236000000003     
+ n =           94  of          554  time steps, t =    1.35678308237471      
+  time in time step =   0.610063000000004     
+ n =           95  of          554  time steps, t =    1.37121694495316      
+  time in time step =   0.611212999999999     
+ n =           96  of          554  time steps, t =    1.38565080753162      
+  time in time step =   0.610681000000000     
+ n =           97  of          554  time steps, t =    1.40008467011007      
+  time in time step =   0.612091999999997     
+ n =           98  of          554  time steps, t =    1.41451853268853      
+  time in time step =   0.610689000000001     
+ n =           99  of          554  time steps, t =    1.42895239526698      
+  time in time step =   0.611553000000001     
+ n =          100  of          554  time steps, t =    1.44338625784544      
+  time in time step =   0.609704000000001     
+ n =          101  of          554  time steps, t =    1.45782012042389      
+  time in time step =   0.612103999999995     
+ n =          102  of          554  time steps, t =    1.47225398300234      
+  time in time step =   0.610351000000001     
+ n =          103  of          554  time steps, t =    1.48668784558080      
+  time in time step =   0.612006999999998     
+ n =          104  of          554  time steps, t =    1.50112170815925      
+  time in time step =   0.610456999999997     
+ n =          105  of          554  time steps, t =    1.51555557073771      
+  time in time step =   0.614709000000005     
+ n =          106  of          554  time steps, t =    1.52998943331616      
+  time in time step =   0.612855999999994     
+ n =          107  of          554  time steps, t =    1.54442329589462      
+  time in time step =   0.610224000000002     
+ n =          108  of          554  time steps, t =    1.55885715847307      
+  time in time step =   0.610948000000008     
+ n =          109  of          554  time steps, t =    1.57329102105152      
+  time in time step =   0.611202999999989     
+ n =          110  of          554  time steps, t =    1.58772488362998      
+  time in time step =   0.610689000000008     
+ n =          111  of          554  time steps, t =    1.60215874620843      
+  time in time step =   0.611882000000008     
+ n =          112  of          554  time steps, t =    1.61659260878689      
+  time in time step =   0.610809000000003     
+ n =          113  of          554  time steps, t =    1.63102647136534      
+  time in time step =   0.610472000000001     
+ n =          114  of          554  time steps, t =    1.64546033394380      
+  time in time step =   0.611322000000001     
+ n =          115  of          554  time steps, t =    1.65989419652225      
+  time in time step =   0.610716999999994     
+ n =          116  of          554  time steps, t =    1.67432805910071      
+  time in time step =   0.611686000000006     
+ n =          117  of          554  time steps, t =    1.68876192167916      
+  time in time step =   0.611441999999997     
+ n =          118  of          554  time steps, t =    1.70319578425761      
+  time in time step =   0.610615999999993     
+ n =          119  of          554  time steps, t =    1.71762964683607      
+  time in time step =   0.610213999999999     
+ n =          120  of          554  time steps, t =    1.73206350941452      
+  time in time step =   0.611204000000001     
+ n =          121  of          554  time steps, t =    1.74649737199298      
+  time in time step =   0.611609000000001     
+ n =          122  of          554  time steps, t =    1.76093123457143      
+  time in time step =   0.611126999999996     
+ n =          123  of          554  time steps, t =    1.77536509714989      
+  time in time step =   0.610236000000000     
+ n =          124  of          554  time steps, t =    1.78979895972834      
+  time in time step =   0.612504999999999     
+ n =          125  of          554  time steps, t =    1.80423282230679      
+  time in time step =   0.610973000000001     
+ n =          126  of          554  time steps, t =    1.81866668488525      
+  time in time step =   0.611075000000000     
+ n =          127  of          554  time steps, t =    1.83310054746370      
+  time in time step =   0.610108000000011     
+ n =          128  of          554  time steps, t =    1.84753441004216      
+  time in time step =   0.612284000000002     
+ n =          129  of          554  time steps, t =    1.86196827262061      
+  time in time step =   0.611244999999997     
+ n =          130  of          554  time steps, t =    1.87640213519907      
+  time in time step =   0.609597000000008     
+ n =          131  of          554  time steps, t =    1.89083599777752      
+  time in time step =   0.611401999999998     
+ n =          132  of          554  time steps, t =    1.90526986035598      
+  time in time step =   0.611815999999990     
+ n =          133  of          554  time steps, t =    1.91970372293443      
+  time in time step =   0.611901000000003     
+ n =          134  of          554  time steps, t =    1.93413758551288      
+  time in time step =   0.609925999999987     
+ n =          135  of          554  time steps, t =    1.94857144809134      
+  time in time step =   0.611584000000008     
+ n =          136  of          554  time steps, t =    1.96300531066979      
+  time in time step =   0.610322000000011     
+ n =          137  of          554  time steps, t =    1.97743917324825      
+  time in time step =   0.613149000000007     
+ n =          138  of          554  time steps, t =    1.99187303582670      
+  time in time step =   0.606661000000003     
+ n =          139  of          554  time steps, t =    2.00630689840516      
+  time in time step =   0.612016999999994     
+ n =          140  of          554  time steps, t =    2.02074076098361      
+  time in time step =   0.612089999999995     
+ n =          141  of          554  time steps, t =    2.03517462356206      
+  time in time step =   0.610212000000004     
+ n =          142  of          554  time steps, t =    2.04960848614052      
+  time in time step =   0.611115999999996     
+ n =          143  of          554  time steps, t =    2.06404234871897      
+  time in time step =   0.611497000000000     
+ n =          144  of          554  time steps, t =    2.07847621129743      
+  time in time step =   0.610285000000005     
+ n =          145  of          554  time steps, t =    2.09291007387588      
+  time in time step =   0.611211999999995     
+ n =          146  of          554  time steps, t =    2.10734393645434      
+  time in time step =   0.612253000000010     
+ n =          147  of          554  time steps, t =    2.12177779903279      
+  time in time step =   0.610055000000003     
+ n =          148  of          554  time steps, t =    2.13621166161124      
+  time in time step =   0.610334999999992     
+ n =          149  of          554  time steps, t =    2.15064552418970      
+  time in time step =   0.610907999999995     
+ n =          150  of          554  time steps, t =    2.16507938676815      
+  time in time step =   0.612710000000007     
+ n =          151  of          554  time steps, t =    2.17951324934661      
+  time in time step =   0.610186999999996     
+ n =          152  of          554  time steps, t =    2.19394711192506      
+  time in time step =   0.611806000000001     
+ n =          153  of          554  time steps, t =    2.20838097450352      
+  time in time step =   0.610669999999999     
+ n =          154  of          554  time steps, t =    2.22281483708197      
+  time in time step =   0.626071000000010     
+ n =          155  of          554  time steps, t =    2.23724869966043      
+  time in time step =   0.611507000000003     
+ n =          156  of          554  time steps, t =    2.25168256223888      
+  time in time step =   0.609987000000004     
+ n =          157  of          554  time steps, t =    2.26611642481733      
+  time in time step =   0.610686999999999     
+ n =          158  of          554  time steps, t =    2.28055028739579      
+  time in time step =   0.611041999999998     
+ n =          159  of          554  time steps, t =    2.29498414997424      
+  time in time step =   0.611554999999996     
+ n =          160  of          554  time steps, t =    2.30941801255270      
+  time in time step =   0.610607000000002     
+ n =          161  of          554  time steps, t =    2.32385187513115      
+  time in time step =   0.611322999999999     
+ n =          162  of          554  time steps, t =    2.33828573770961      
+  time in time step =   0.610686999999999     
+ n =          163  of          554  time steps, t =    2.35271960028806      
+  time in time step =   0.612069000000005     
+ n =          164  of          554  time steps, t =    2.36715346286651      
+  time in time step =   0.610960999999989     
+ n =          165  of          554  time steps, t =    2.38158732544497      
+  time in time step =   0.612076999999999     
+ n =          166  of          554  time steps, t =    2.39602118802342      
+  time in time step =   0.610022999999998     
+ n =          167  of          554  time steps, t =    2.41045505060188      
+  time in time step =   0.610685000000004     
+ n =          168  of          554  time steps, t =    2.42488891318033      
+  time in time step =   0.611351999999997     
+ n =          169  of          554  time steps, t =    2.43932277575879      
+  time in time step =   0.611292000000006     
+ n =          170  of          554  time steps, t =    2.45375663833724      
+  time in time step =   0.611125000000001     
+ n =          171  of          554  time steps, t =    2.46819050091570      
+  time in time step =   0.611260999999999     
+ n =          172  of          554  time steps, t =    2.48262436349415      
+  time in time step =   0.611263000000008     
+ n =          173  of          554  time steps, t =    2.49705822607260      
+  time in time step =   0.610287000000000     
+ n =          174  of          554  time steps, t =    2.51149208865106      
+  time in time step =   0.612302000000000     
+ n =          175  of          554  time steps, t =    2.52592595122951      
+  time in time step =   0.610795000000010     
+ n =          176  of          554  time steps, t =    2.54035981380797      
+  time in time step =   0.611170999999999     
+ n =          177  of          554  time steps, t =    2.55479367638642      
+  time in time step =   0.610135999999997     
+ n =          178  of          554  time steps, t =    2.56922753896488      
+  time in time step =   0.611633999999995     
+ n =          179  of          554  time steps, t =    2.58366140154333      
+  time in time step =   0.611879000000002     
+ n =          180  of          554  time steps, t =    2.59809526412178      
+  time in time step =   0.610748999999998     
+ n =          181  of          554  time steps, t =    2.61252912670024      
+  time in time step =   0.611068000000003     
+ n =          182  of          554  time steps, t =    2.62696298927869      
+  time in time step =   0.610590000000002     
+ n =          183  of          554  time steps, t =    2.64139685185715      
+  time in time step =   0.611233999999996     
+ n =          184  of          554  time steps, t =    2.65583071443560      
+  time in time step =   0.611214000000004     
+ n =          185  of          554  time steps, t =    2.67026457701406      
+  time in time step =   0.611764999999991     
+ n =          186  of          554  time steps, t =    2.68469843959251      
+  time in time step =   0.610289999999992     
+ n =          187  of          554  time steps, t =    2.69913230217096      
+  time in time step =   0.612204000000006     
+ n =          188  of          554  time steps, t =    2.71356616474942      
+  time in time step =   0.610416000000001     
+ n =          189  of          554  time steps, t =    2.72800002732787      
+  time in time step =   0.611751999999996     
+ n =          190  of          554  time steps, t =    2.74243388990633      
+  time in time step =   0.610817000000011     
+ n =          191  of          554  time steps, t =    2.75686775248478      
+  time in time step =   0.611778999999999     
+ n =          192  of          554  time steps, t =    2.77130161506324      
+  time in time step =   0.610487000000006     
+ n =          193  of          554  time steps, t =    2.78573547764169      
+  time in time step =   0.611521999999994     
+ n =          194  of          554  time steps, t =    2.80016934022015      
+  time in time step =   0.611569000000003     
+ n =          195  of          554  time steps, t =    2.81460320279860      
+  time in time step =   0.609637999999990     
+ n =          196  of          554  time steps, t =    2.82903706537705      
+  time in time step =   0.611429999999999     
+ n =          197  of          554  time steps, t =    2.84347092795551      
+  time in time step =   0.611003000000011     
+ n =          198  of          554  time steps, t =    2.85790479053396      
+  time in time step =   0.611772000000002     
+ n =          199  of          554  time steps, t =    2.87233865311242      
+  time in time step =   0.611401000000001     
+ n =          200  of          554  time steps, t =    2.88677251569087      
+  time in time step =   0.610530000000011     
+ n =          201  of          554  time steps, t =    2.90120637826933      
+  time in time step =   0.611798000000007     
+ n =          202  of          554  time steps, t =    2.91564024084778      
+  time in time step =   0.631585000000001     
+ n =          203  of          554  time steps, t =    2.93007410342623      
+  time in time step =   0.627161000000001     
+ n =          204  of          554  time steps, t =    2.94450796600469      
+  time in time step =   0.609102000000007     
+ n =          205  of          554  time steps, t =    2.95894182858314      
+  time in time step =   0.611871999999991     
+ n =          206  of          554  time steps, t =    2.97337569116160      
+  time in time step =   0.610611000000006     
+ n =          207  of          554  time steps, t =    2.98780955374005      
+  time in time step =   0.611291999999992     
+ n =          208  of          554  time steps, t =    3.00224341631851      
+  time in time step =   0.610608999999997     
+ n =          209  of          554  time steps, t =    3.01667727889696      
+  time in time step =   0.610794999999996     
+ n =          210  of          554  time steps, t =    3.03111114147542      
+  time in time step =   0.612138000000002     
+ n =          211  of          554  time steps, t =    3.04554500405387      
+  time in time step =   0.610783999999995     
+ n =          212  of          554  time steps, t =    3.05997886663232      
+  time in time step =   0.610761999999994     
+ n =          213  of          554  time steps, t =    3.07441272921078      
+  time in time step =   0.611279999999994     
+ n =          214  of          554  time steps, t =    3.08884659178923      
+  time in time step =   0.611606999999992     
+ n =          215  of          554  time steps, t =    3.10328045436769      
+  time in time step =   0.611307000000011     
+ n =          216  of          554  time steps, t =    3.11771431694614      
+  time in time step =   0.610380999999990     
+ n =          217  of          554  time steps, t =    3.13214817952460      
+  time in time step =   0.611154999999997     
+ n =          218  of          554  time steps, t =    3.14658204210305      
+  time in time step =   0.611560999999995     
+ n =          219  of          554  time steps, t =    3.16101590468150      
+  time in time step =   0.606469000000004     
+ n =          220  of          554  time steps, t =    3.17544976725996      
+  time in time step =   0.611342000000008     
+ n =          221  of          554  time steps, t =    3.18988362983841      
+  time in time step =   0.611325999999991     
+ n =          222  of          554  time steps, t =    3.20431749241687      
+  time in time step =   0.611527999999993     
+ n =          223  of          554  time steps, t =    3.21875135499532      
+  time in time step =   0.610337000000015     
+ n =          224  of          554  time steps, t =    3.23318521757378      
+  time in time step =   0.612524000000008     
+ n =          225  of          554  time steps, t =    3.24761908015223      
+  time in time step =   0.608271000000002     
+ n =          226  of          554  time steps, t =    3.26205294273068      
+  time in time step =   0.611525000000000     
+ n =          227  of          554  time steps, t =    3.27648680530914      
+  time in time step =   0.609802999999999     
+ n =          228  of          554  time steps, t =    3.29092066788759      
+  time in time step =   0.610996000000000     
+ n =          229  of          554  time steps, t =    3.30535453046605      
+  time in time step =   0.612223999999998     
+ n =          230  of          554  time steps, t =    3.31978839304450      
+  time in time step =   0.610052999999994     
+ n =          231  of          554  time steps, t =    3.33422225562296      
+  time in time step =   0.612697999999995     
+ n =          232  of          554  time steps, t =    3.34865611820141      
+  time in time step =   0.610875999999990     
+ n =          233  of          554  time steps, t =    3.36308998077987      
+  time in time step =   0.611767999999984     
+ n =          234  of          554  time steps, t =    3.37752384335832      
+  time in time step =   0.611059000000012     
+ n =          235  of          554  time steps, t =    3.39195770593677      
+  time in time step =   0.609962000000024     
+ n =          236  of          554  time steps, t =    3.40639156851523      
+  time in time step =   0.611128000000008     
+ n =          237  of          554  time steps, t =    3.42082543109368      
+  time in time step =   0.611709999999988     
+ n =          238  of          554  time steps, t =    3.43525929367214      
+  time in time step =   0.610287999999997     
+ n =          239  of          554  time steps, t =    3.44969315625059      
+  time in time step =   0.611341000000010     
+ n =          240  of          554  time steps, t =    3.46412701882905      
+  time in time step =   0.611181000000016     
+ n =          241  of          554  time steps, t =    3.47856088140750      
+  time in time step =   0.611181000000016     
+ n =          242  of          554  time steps, t =    3.49299474398595      
+  time in time step =   0.611088000000024     
+ n =          243  of          554  time steps, t =    3.50742860656441      
+  time in time step =   0.611480000000000     
+ n =          244  of          554  time steps, t =    3.52186246914286      
+  time in time step =   0.611463999999984     
+ n =          245  of          554  time steps, t =    3.53629633172132      
+  time in time step =   0.610478999999998     
+ n =          246  of          554  time steps, t =    3.55073019429977      
+  time in time step =   0.611654999999985     
+ n =          247  of          554  time steps, t =    3.56516405687823      
+  time in time step =   0.612150000000014     
+ n =          248  of          554  time steps, t =    3.57959791945668      
+  time in time step =   0.610428000000013     
+ n =          249  of          554  time steps, t =    3.59403178203514      
+  time in time step =   0.611606999999992     
+ n =          250  of          554  time steps, t =    3.60846564461359      
+  time in time step =   0.610648999999995     
+ n =          251  of          554  time steps, t =    3.62289950719204      
+  time in time step =   0.634918000000027     
+ n =          252  of          554  time steps, t =    3.63733336977050      
+  time in time step =   0.611752999999993     
+ n =          253  of          554  time steps, t =    3.65176723234895      
+  time in time step =   0.611176000000000     
+ n =          254  of          554  time steps, t =    3.66620109492741      
+  time in time step =   0.611638999999997     
+ n =          255  of          554  time steps, t =    3.68063495750586      
+  time in time step =   0.610762000000022     
+ n =          256  of          554  time steps, t =    3.69506882008432      
+  time in time step =   0.610427999999985     
+ n =          257  of          554  time steps, t =    3.70950268266277      
+  time in time step =   0.611263000000008     
+ n =          258  of          554  time steps, t =    3.72393654524122      
+  time in time step =   0.610354000000001     
+ n =          259  of          554  time steps, t =    3.73837040781968      
+  time in time step =   0.611525000000000     
+ n =          260  of          554  time steps, t =    3.75280427039813      
+  time in time step =   0.611769000000010     
+ n =          261  of          554  time steps, t =    3.76723813297659      
+  time in time step =   0.611321000000004     
+ n =          262  of          554  time steps, t =    3.78167199555504      
+  time in time step =   0.610636000000000     
+ n =          263  of          554  time steps, t =    3.79610585813350      
+  time in time step =   0.612161000000015     
+ n =          264  of          554  time steps, t =    3.81053972071195      
+  time in time step =   0.610782000000000     
+ n =          265  of          554  time steps, t =    3.82497358329040      
+  time in time step =   0.611253000000005     
+ n =          266  of          554  time steps, t =    3.83940744586886      
+  time in time step =   0.611811999999986     
+ n =          267  of          554  time steps, t =    3.85384130844731      
+  time in time step =   0.612042000000002     
+ n =          268  of          554  time steps, t =    3.86827517102577      
+  time in time step =   0.610616999999991     
+ n =          269  of          554  time steps, t =    3.88270903360422      
+  time in time step =   0.610582999999991     
+ n =          270  of          554  time steps, t =    3.89714289618268      
+  time in time step =   0.612243999999976     
+ n =          271  of          554  time steps, t =    3.91157675876113      
+  time in time step =   0.610548000000023     
+ n =          272  of          554  time steps, t =    3.92601062133959      
+  time in time step =   0.611055999999991     
+ n =          273  of          554  time steps, t =    3.94044448391804      
+  time in time step =   0.610635000000002     
+ n =          274  of          554  time steps, t =    3.95487834649649      
+  time in time step =   0.611080999999984     
+ n =          275  of          554  time steps, t =    3.96931220907495      
+  time in time step =   0.611194000000012     
+ n =          276  of          554  time steps, t =    3.98374607165340      
+  time in time step =   0.611118000000005     
+ n =          277  of          554  time steps, t =    3.99817993423186      
+  time in time step =   0.611859000000010     
+ n =          278  of          554  time steps, t =    4.01261379681031      
+  time in time step =   0.610597999999982     
+ n =          279  of          554  time steps, t =    4.02704765938877      
+  time in time step =   0.611841999999996     
+ n =          280  of          554  time steps, t =    4.04148152196722      
+  time in time step =   0.611744000000016     
+ n =          281  of          554  time steps, t =    4.05591538454567      
+  time in time step =   0.610535999999996     
+ n =          282  of          554  time steps, t =    4.07034924712413      
+  time in time step =   0.610661999999991     
+ n =          283  of          554  time steps, t =    4.08478310970258      
+  time in time step =   0.612012999999990     
+ n =          284  of          554  time steps, t =    4.09921697228104      
+  time in time step =   0.610222999999991     
+ n =          285  of          554  time steps, t =    4.11365083485949      
+  time in time step =   0.611400000000003     
+ n =          286  of          554  time steps, t =    4.12808469743795      
+  time in time step =   0.612265000000008     
+ n =          287  of          554  time steps, t =    4.14251856001640      
+  time in time step =   0.610748000000001     
+ n =          288  of          554  time steps, t =    4.15695242259485      
+  time in time step =   0.611512000000005     
+ n =          289  of          554  time steps, t =    4.17138628517331      
+  time in time step =   0.610328000000010     
+ n =          290  of          554  time steps, t =    4.18582014775176      
+  time in time step =   0.610910999999987     
+ n =          291  of          554  time steps, t =    4.20025401033022      
+  time in time step =   0.611441000000013     
+ n =          292  of          554  time steps, t =    4.21468787290867      
+  time in time step =   0.611445000000003     
+ n =          293  of          554  time steps, t =    4.22912173548713      
+  time in time step =   0.611439999999988     
+ n =          294  of          554  time steps, t =    4.24355559806558      
+  time in time step =   0.609766000000008     
+ n =          295  of          554  time steps, t =    4.25798946064404      
+  time in time step =   0.611762999999996     
+ n =          296  of          554  time steps, t =    4.27242332322249      
+  time in time step =   0.611227999999983     
+ n =          297  of          554  time steps, t =    4.28685718580094      
+  time in time step =   0.611952000000002     
+ n =          298  of          554  time steps, t =    4.30129104837940      
+  time in time step =   0.610390999999993     
+ n =          299  of          554  time steps, t =    4.31572491095785      
+  time in time step =   0.610624999999999     
+ n =          300  of          554  time steps, t =    4.33015877353631      
+  time in time step =   0.613790999999992     
+ n =          301  of          554  time steps, t =    4.34459263611476      
+  time in time step =   0.610991000000013     
+ n =          302  of          554  time steps, t =    4.35902649869322      
+  time in time step =   0.610851999999994     
+ n =          303  of          554  time steps, t =    4.37346036127167      
+  time in time step =   0.612253999999979     
+ n =          304  of          554  time steps, t =    4.38789422385012      
+  time in time step =   0.611073000000005     
+ n =          305  of          554  time steps, t =    4.40232808642858      
+  time in time step =   0.611569000000003     
+ n =          306  of          554  time steps, t =    4.41676194900703      
+  time in time step =   0.611065999999994     
+ n =          307  of          554  time steps, t =    4.43119581158549      
+  time in time step =   0.611193999999983     
+ n =          308  of          554  time steps, t =    4.44562967416394      
+  time in time step =   0.611559999999997     
+ n =          309  of          554  time steps, t =    4.46006353674240      
+  time in time step =   0.610359000000017     
+ n =          310  of          554  time steps, t =    4.47449739932085      
+  time in time step =   0.610595000000018     
+ n =          311  of          554  time steps, t =    4.48893126189930      
+  time in time step =   0.612075000000004     
+ n =          312  of          554  time steps, t =    4.50336512447776      
+  time in time step =   0.610613999999998     
+ n =          313  of          554  time steps, t =    4.51779898705621      
+  time in time step =   0.611851000000001     
+ n =          314  of          554  time steps, t =    4.53223284963467      
+  time in time step =   0.610106999999999     
+ n =          315  of          554  time steps, t =    4.54666671221312      
+  time in time step =   0.611408000000011     
+ n =          316  of          554  time steps, t =    4.56110057479158      
+  time in time step =   0.611942000000028     
+ n =          317  of          554  time steps, t =    4.57553443737003      
+  time in time step =   0.611136999999985     
+ n =          318  of          554  time steps, t =    4.58996829994849      
+  time in time step =   0.610188000000022     
+ n =          319  of          554  time steps, t =    4.60440216252694      
+  time in time step =   0.612142000000006     
+ n =          320  of          554  time steps, t =    4.61883602510539      
+  time in time step =   0.611015999999978     
+ n =          321  of          554  time steps, t =    4.63326988768385      
+  time in time step =   0.610455999999999     
+ n =          322  of          554  time steps, t =    4.64770375026230      
+  time in time step =   0.612910999999997     
+ n =          323  of          554  time steps, t =    4.66213761284076      
+  time in time step =   0.610308000000003     
+ n =          324  of          554  time steps, t =    4.67657147541921      
+  time in time step =   0.610970000000009     
+ n =          325  of          554  time steps, t =    4.69100533799767      
+  time in time step =   0.610619000000014     
+ n =          326  of          554  time steps, t =    4.70543920057612      
+  time in time step =   0.612361999999990     
+ n =          327  of          554  time steps, t =    4.71987306315457      
+  time in time step =   0.610388000000000     
+ n =          328  of          554  time steps, t =    4.73430692573303      
+  time in time step =   0.611221999999998     
+ n =          329  of          554  time steps, t =    4.74874078831148      
+  time in time step =   0.611812000000015     
+ n =          330  of          554  time steps, t =    4.76317465088994      
+  time in time step =   0.610921000000019     
+ n =          331  of          554  time steps, t =    4.77760851346839      
+  time in time step =   0.611122000000023     
+ n =          332  of          554  time steps, t =    4.79204237604685      
+  time in time step =   0.609355000000022     
+ n =          333  of          554  time steps, t =    4.80647623862530      
+  time in time step =   0.630002000000019     
+ n =          334  of          554  time steps, t =    4.82091010120376      
+  time in time step =   0.611288000000002     
+ n =          335  of          554  time steps, t =    4.83534396378221      
+  time in time step =   0.611269000000021     
+ n =          336  of          554  time steps, t =    4.84977782636066      
+  time in time step =   0.610871000000003     
+ n =          337  of          554  time steps, t =    4.86421168893912      
+  time in time step =   0.611018999999999     
+ n =          338  of          554  time steps, t =    4.87864555151757      
+  time in time step =   0.610727999999995     
+ n =          339  of          554  time steps, t =    4.89307941409603      
+  time in time step =   0.610901999999982     
+ n =          340  of          554  time steps, t =    4.90751327667448      
+  time in time step =   0.611309000000006     
+ n =          341  of          554  time steps, t =    4.92194713925294      
+  time in time step =   0.611232999999999     
+ n =          342  of          554  time steps, t =    4.93638100183139      
+  time in time step =   0.611421000000007     
+ n =          343  of          554  time steps, t =    4.95081486440984      
+  time in time step =   0.612474999999989     
+ n =          344  of          554  time steps, t =    4.96524872698830      
+  time in time step =   0.610751999999991     
+ n =          345  of          554  time steps, t =    4.97968258956675      
+  time in time step =   0.611530000000016     
+ n =          346  of          554  time steps, t =    4.99411645214521      
+  time in time step =   0.611887999999993     
+ n =          347  of          554  time steps, t =    5.00855031472366      
+  time in time step =   0.609353999999996     
+ n =          348  of          554  time steps, t =    5.02298417730212      
+  time in time step =   0.612785000000002     
+ n =          349  of          554  time steps, t =    5.03741803988057      
+  time in time step =   0.647764999999993     
+ n =          350  of          554  time steps, t =    5.05185190245902      
+  time in time step =   0.610971000000006     
+ n =          351  of          554  time steps, t =    5.06628576503748      
+  time in time step =   0.611341000000010     
+ n =          352  of          554  time steps, t =    5.08071962761593      
+  time in time step =   0.611716000000001     
+ n =          353  of          554  time steps, t =    5.09515349019439      
+  time in time step =   0.611452999999983     
+ n =          354  of          554  time steps, t =    5.10958735277284      
+  time in time step =   0.610622000000006     
+ n =          355  of          554  time steps, t =    5.12402121535130      
+  time in time step =   0.610865000000018     
+ n =          356  of          554  time steps, t =    5.13845507792975      
+  time in time step =   0.611266000000001     
+ n =          357  of          554  time steps, t =    5.15288894050821      
+  time in time step =   0.610590999999999     
+ n =          358  of          554  time steps, t =    5.16732280308666      
+  time in time step =   0.611647000000005     
+ n =          359  of          554  time steps, t =    5.18175666566511      
+  time in time step =   0.609653000000009     
+ n =          360  of          554  time steps, t =    5.19619052824357      
+  time in time step =   0.611156999999992     
+ n =          361  of          554  time steps, t =    5.21062439082202      
+  time in time step =   0.611887999999993     
+ n =          362  of          554  time steps, t =    5.22505825340048      
+  time in time step =   0.611078999999989     
+ n =          363  of          554  time steps, t =    5.23949211597893      
+  time in time step =   0.611333999999999     
+ n =          364  of          554  time steps, t =    5.25392597855739      
+  time in time step =   0.610713000000004     
+ n =          365  of          554  time steps, t =    5.26835984113584      
+  time in time step =   0.609693999999990     
+ n =          366  of          554  time steps, t =    5.28279370371429      
+  time in time step =   0.612034999999992     
+ n =          367  of          554  time steps, t =    5.29722756629275      
+  time in time step =   0.611432000000008     
+ n =          368  of          554  time steps, t =    5.31166142887120      
+  time in time step =   0.610977999999989     
+ n =          369  of          554  time steps, t =    5.32609529144966      
+  time in time step =   0.610524999999996     
+ n =          370  of          554  time steps, t =    5.34052915402811      
+  time in time step =   0.612156999999996     
+ n =          371  of          554  time steps, t =    5.35496301660657      
+  time in time step =   0.612492000000003     
+ n =          372  of          554  time steps, t =    5.36939687918502      
+  time in time step =   0.610191999999984     
+ n =          373  of          554  time steps, t =    5.38383074176348      
+  time in time step =   0.611897999999997     
+ n =          374  of          554  time steps, t =    5.39826460434193      
+  time in time step =   0.610904000000005     
+ n =          375  of          554  time steps, t =    5.41269846692038      
+  time in time step =   0.610669000000001     
+ n =          376  of          554  time steps, t =    5.42713232949884      
+  time in time step =   0.610536999999994     
+ n =          377  of          554  time steps, t =    5.44156619207729      
+  time in time step =   0.609012000000007     
+ n =          378  of          554  time steps, t =    5.45600005465575      
+  time in time step =   0.611163999999974     
+ n =          379  of          554  time steps, t =    5.47043391723420      
+  time in time step =   0.612263000000013     
+ n =          380  of          554  time steps, t =    5.48486777981266      
+  time in time step =   0.610130999999996     
+ n =          381  of          554  time steps, t =    5.49930164239111      
+  time in time step =   0.610565000000008     
+ n =          382  of          554  time steps, t =    5.51373550496956      
+  time in time step =   0.612395999999990     
+ n =          383  of          554  time steps, t =    5.52816936754802      
+  time in time step =   0.610298000000000     
+ n =          384  of          554  time steps, t =    5.54260323012647      
+  time in time step =   0.611477000000008     
+ n =          385  of          554  time steps, t =    5.55703709270493      
+  time in time step =   0.610390000000024     
+ n =          386  of          554  time steps, t =    5.57147095528338      
+  time in time step =   0.611262000000011     
+ n =          387  of          554  time steps, t =    5.58590481786184      
+  time in time step =   0.610330000000005     
+ n =          388  of          554  time steps, t =    5.60033868044029      
+  time in time step =   0.612251000000015     
+ n =          389  of          554  time steps, t =    5.61477254301874      
+  time in time step =   0.610178999999988     
+ n =          390  of          554  time steps, t =    5.62920640559720      
+  time in time step =   0.610943000000020     
+ n =          391  of          554  time steps, t =    5.64364026817565      
+  time in time step =   0.610336999999987     
+ n =          392  of          554  time steps, t =    5.65807413075411      
+  time in time step =   0.611155999999994     
+ n =          393  of          554  time steps, t =    5.67250799333256      
+  time in time step =   0.611317000000014     
+ n =          394  of          554  time steps, t =    5.68694185591102      
+  time in time step =   0.610555000000005     
+ n =          395  of          554  time steps, t =    5.70137571848947      
+  time in time step =   0.610513999999995     
+ n =          396  of          554  time steps, t =    5.71580958106793      
+  time in time step =   0.611727999999999     
+ n =          397  of          554  time steps, t =    5.73024344364638      
+  time in time step =   0.603629000000012     
+ n =          398  of          554  time steps, t =    5.74467730622483      
+  time in time step =   0.610011000000014     
+ n =          399  of          554  time steps, t =    5.75911116880329      
+  time in time step =   0.610909999999990     
+ n =          400  of          554  time steps, t =    5.77354503138174      
+  time in time step =   0.611546000000004     
+ n =          401  of          554  time steps, t =    5.78797889396020      
+  time in time step =   0.610526999999990     
+ n =          402  of          554  time steps, t =    5.80241275653865      
+  time in time step =   0.610726999999997     
+ n =          403  of          554  time steps, t =    5.81684661911711      
+  time in time step =   0.610843000000017     
+ n =          404  of          554  time steps, t =    5.83128048169556      
+  time in time step =   0.611097000000001     
+ n =          405  of          554  time steps, t =    5.84571434427401      
+  time in time step =   0.611239000000012     
+ n =          406  of          554  time steps, t =    5.86014820685247      
+  time in time step =   0.611181000000016     
+ n =          407  of          554  time steps, t =    5.87458206943092      
+  time in time step =   0.609640999999982     
+ n =          408  of          554  time steps, t =    5.88901593200938      
+  time in time step =   0.611649999999997     
+ n =          409  of          554  time steps, t =    5.90344979458783      
+  time in time step =   0.611171000000013     
+ n =          410  of          554  time steps, t =    5.91788365716629      
+  time in time step =   0.610316000000012     
+ n =          411  of          554  time steps, t =    5.93231751974474      
+  time in time step =   0.609891000000005     
+ n =          412  of          554  time steps, t =    5.94675138232320      
+  time in time step =   0.611224999999990     
+ n =          413  of          554  time steps, t =    5.96118524490165      
+  time in time step =   0.611561999999992     
+ n =          414  of          554  time steps, t =    5.97561910748010      
+  time in time step =   0.611489000000006     
+ n =          415  of          554  time steps, t =    5.99005297005856      
+  time in time step =   0.609491999999989     
+ n =          416  of          554  time steps, t =    6.00448683263701      
+  time in time step =   0.611762999999996     
+ n =          417  of          554  time steps, t =    6.01892069521547      
+  time in time step =   0.610044999999985     
+ n =          418  of          554  time steps, t =    6.03335455779392      
+  time in time step =   0.611498000000012     
+ n =          419  of          554  time steps, t =    6.04778842037238      
+  time in time step =   0.610874999999993     
+ n =          420  of          554  time steps, t =    6.06222228295083      
+  time in time step =   0.609943999999984     
+ n =          421  of          554  time steps, t =    6.07665614552928      
+  time in time step =   0.610900000000015     
+ n =          422  of          554  time steps, t =    6.09109000810774      
+  time in time step =   0.611722999999984     
+ n =          423  of          554  time steps, t =    6.10552387068619      
+  time in time step =   0.610965000000022     
+ n =          424  of          554  time steps, t =    6.11995773326465      
+  time in time step =   0.609801000000004     
+ n =          425  of          554  time steps, t =    6.13439159584310      
+  time in time step =   0.610686999999984     
+ n =          426  of          554  time steps, t =    6.14882545842156      
+  time in time step =   0.611456999999973     
+ n =          427  of          554  time steps, t =    6.16325932100001      
+  time in time step =   0.610848000000033     
+ n =          428  of          554  time steps, t =    6.17769318357846      
+  time in time step =   0.609956000000011     
+ n =          429  of          554  time steps, t =    6.19212704615692      
+  time in time step =   0.610981999999979     
+ n =          430  of          554  time steps, t =    6.20656090873537      
+  time in time step =   0.628091999999981     
+ n =          431  of          554  time steps, t =    6.22099477131383      
+  time in time step =   0.610461999999984     
+ n =          432  of          554  time steps, t =    6.23542863389228      
+  time in time step =   0.611281000000020     
+ n =          433  of          554  time steps, t =    6.24986249647074      
+  time in time step =   0.610888999999986     
+ n =          434  of          554  time steps, t =    6.26429635904919      
+  time in time step =   0.611395000000016     
+ n =          435  of          554  time steps, t =    6.27873022162765      
+  time in time step =   0.610202000000015     
+ n =          436  of          554  time steps, t =    6.29316408420610      
+  time in time step =   0.611589000000038     
+ n =          437  of          554  time steps, t =    6.30759794678455      
+  time in time step =   0.609783999999991     
+ n =          438  of          554  time steps, t =    6.32203180936301      
+  time in time step =   0.610563999999954     
+ n =          439  of          554  time steps, t =    6.33646567194146      
+  time in time step =   0.611308000000008     
+ n =          440  of          554  time steps, t =    6.35089953451992      
+  time in time step =   0.611289999999997     
+ n =          441  of          554  time steps, t =    6.36533339709837      
+  time in time step =   0.609976000000017     
+ n =          442  of          554  time steps, t =    6.37976725967683      
+  time in time step =   0.611625000000004     
+ n =          443  of          554  time steps, t =    6.39420112225528      
+  time in time step =   0.609884999999963     
+ n =          444  of          554  time steps, t =    6.40863498483373      
+  time in time step =   0.610705999999993     
+ n =          445  of          554  time steps, t =    6.42306884741219      
+  time in time step =   0.611179999999990     
+ n =          446  of          554  time steps, t =    6.43750270999064      
+  time in time step =   0.623874999999998     
+ n =          447  of          554  time steps, t =    6.45193657256910      
+  time in time step =   0.611713000000009     
+ n =          448  of          554  time steps, t =    6.46637043514755      
+  time in time step =   0.610636999999997     
+ n =          449  of          554  time steps, t =    6.48080429772601      
+  time in time step =   0.610452000000009     
+ n =          450  of          554  time steps, t =    6.49523816030446      
+  time in time step =   0.611576000000014     
+ n =          451  of          554  time steps, t =    6.50967202288292      
+  time in time step =   0.609832999999981     
+ n =          452  of          554  time steps, t =    6.52410588546137      
+  time in time step =   0.611166000000026     
+ n =          453  of          554  time steps, t =    6.53853974803982      
+  time in time step =   0.611159999999984     
+ n =          454  of          554  time steps, t =    6.55297361061828      
+  time in time step =   0.611002999999982     
+ n =          455  of          554  time steps, t =    6.56740747319673      
+  time in time step =   0.610719000000017     
+ n =          456  of          554  time steps, t =    6.58184133577519      
+  time in time step =   0.610142999999994     
+ n =          457  of          554  time steps, t =    6.59627519835364      
+  time in time step =   0.611219000000006     
+ n =          458  of          554  time steps, t =    6.61070906093210      
+  time in time step =   0.609565999999973     
+ n =          459  of          554  time steps, t =    6.62514292351055      
+  time in time step =   0.610451000000012     
+ n =          460  of          554  time steps, t =    6.63957678608900      
+  time in time step =   0.612460999999996     
+ n =          461  of          554  time steps, t =    6.65401064866746      
+  time in time step =   0.610091000000011     
+ n =          462  of          554  time steps, t =    6.66844451124591      
+  time in time step =   0.611770999999976     
+ n =          463  of          554  time steps, t =    6.68287837382437      
+  time in time step =   0.610590999999999     
+ n =          464  of          554  time steps, t =    6.69731223640282      
+  time in time step =   0.609980000000007     
+ n =          465  of          554  time steps, t =    6.71174609898128      
+  time in time step =   0.612076999999999     
+ n =          466  of          554  time steps, t =    6.72617996155973      
+  time in time step =   0.610839999999996     
+ n =          467  of          554  time steps, t =    6.74061382413818      
+  time in time step =   0.610751999999991     
+ n =          468  of          554  time steps, t =    6.75504768671664      
+  time in time step =   0.610500999999999     
+ n =          469  of          554  time steps, t =    6.76948154929509      
+  time in time step =   0.612316000000021     
+ n =          470  of          554  time steps, t =    6.78391541187355      
+  time in time step =   0.611104999999952     
+ n =          471  of          554  time steps, t =    6.79834927445200      
+  time in time step =   0.609304000000009     
+ n =          472  of          554  time steps, t =    6.81278313703046      
+  time in time step =   0.611030000000028     
+ n =          473  of          554  time steps, t =    6.82721699960891      
+  time in time step =   0.612553000000048     
+ n =          474  of          554  time steps, t =    6.84165086218737      
+  time in time step =   0.610581000000025     
+ n =          475  of          554  time steps, t =    6.85608472476582      
+  time in time step =   0.608377000000019     
+ n =          476  of          554  time steps, t =    6.87051858734427      
+  time in time step =   0.610715999999968     
+ n =          477  of          554  time steps, t =    6.88495244992273      
+  time in time step =   0.611832999999990     
+ n =          478  of          554  time steps, t =    6.89938631250118      
+  time in time step =   0.610531999999978     
+ n =          479  of          554  time steps, t =    6.91382017507964      
+  time in time step =   0.609127000000001     
+ n =          480  of          554  time steps, t =    6.92825403765809      
+  time in time step =   0.610734999999977     
+ n =          481  of          554  time steps, t =    6.94268790023655      
+  time in time step =   0.610410999999999     
+ n =          482  of          554  time steps, t =    6.95712176281500      
+  time in time step =   0.611571999999967     
+ n =          483  of          554  time steps, t =    6.97155562539345      
+  time in time step =   0.611325999999963     
+ n =          484  of          554  time steps, t =    6.98598948797191      
+  time in time step =   0.610343000000000     
+ n =          485  of          554  time steps, t =    7.00042335055036      
+  time in time step =   0.611977000000024     
+ n =          486  of          554  time steps, t =    7.01485721312882      
+  time in time step =   0.610366999999997     
+ n =          487  of          554  time steps, t =    7.02929107570727      
+  time in time step =   0.610955999999987     
+ n =          488  of          554  time steps, t =    7.04372493828573      
+  time in time step =   0.610305999999980     
+ n =          489  of          554  time steps, t =    7.05815880086418      
+  time in time step =   0.611401000000001     
+ n =          490  of          554  time steps, t =    7.07259266344264      
+  time in time step =   0.610577000000035     
+ n =          491  of          554  time steps, t =    7.08702652602109      
+  time in time step =   0.610483999999985     
+ n =          492  of          554  time steps, t =    7.10146038859954      
+  time in time step =   0.611751000000027     
+ n =          493  of          554  time steps, t =    7.11589425117800      
+  time in time step =   0.610433000000000     
+ n =          494  of          554  time steps, t =    7.13032811375645      
+  time in time step =   0.610597999999982     
+ n =          495  of          554  time steps, t =    7.14476197633491      
+  time in time step =   0.621850999999992     
+ n =          496  of          554  time steps, t =    7.15919583891336      
+  time in time step =   0.619837000000018     
+ n =          497  of          554  time steps, t =    7.17362970149182      
+  time in time step =   0.609980000000007     
+ n =          498  of          554  time steps, t =    7.18806356407027      
+  time in time step =   0.611846000000014     
+ n =          499  of          554  time steps, t =    7.20249742664872      
+  time in time step =   0.610231999999996     
+ n =          500  of          554  time steps, t =    7.21693128922718      
+  time in time step =   0.610370999999986     
+ n =          501  of          554  time steps, t =    7.23136515180563      
+  time in time step =   0.610326999999984     
+ n =          502  of          554  time steps, t =    7.24579901438409      
+  time in time step =   0.610794999999996     
+ n =          503  of          554  time steps, t =    7.26023287696254      
+  time in time step =   0.611289999999997     
+ n =          504  of          554  time steps, t =    7.27466673954100      
+  time in time step =   0.609984999999995     
+ n =          505  of          554  time steps, t =    7.28910060211945      
+  time in time step =   0.611516999999992     
+ n =          506  of          554  time steps, t =    7.30353446469791      
+  time in time step =   0.610928999999999     
+ n =          507  of          554  time steps, t =    7.31796832727636      
+  time in time step =   0.611047999999982     
+ n =          508  of          554  time steps, t =    7.33240218985481      
+  time in time step =   0.610028000000000     
+ n =          509  of          554  time steps, t =    7.34683605243327      
+  time in time step =   0.611907999999971     
+ n =          510  of          554  time steps, t =    7.36126991501172      
+  time in time step =   0.610078000000044     
+ n =          511  of          554  time steps, t =    7.37570377759018      
+  time in time step =   0.610037999999975     
+ n =          512  of          554  time steps, t =    7.39013764016863      
+  time in time step =   0.611050999999975     
+ n =          513  of          554  time steps, t =    7.40457150274709      
+  time in time step =   0.612069000000020     
+ n =          514  of          554  time steps, t =    7.41900536532554      
+  time in time step =   0.610718000000020     
+ n =          515  of          554  time steps, t =    7.43343922790399      
+  time in time step =   0.611312999999996     
+ n =          516  of          554  time steps, t =    7.44787309048245      
+  time in time step =   0.609555000000000     
+ n =          517  of          554  time steps, t =    7.46230695306090      
+  time in time step =   0.611734000000013     
+ n =          518  of          554  time steps, t =    7.47674081563936      
+  time in time step =   0.611022999999989     
+ n =          519  of          554  time steps, t =    7.49117467821781      
+  time in time step =   0.610407000000009     
+ n =          520  of          554  time steps, t =    7.50560854079627      
+  time in time step =   0.611458000000027     
+ n =          521  of          554  time steps, t =    7.52004240337472      
+  time in time step =   0.610759999999971     
+ n =          522  of          554  time steps, t =    7.53447626595317      
+  time in time step =   0.611614000000031     
+ n =          523  of          554  time steps, t =    7.54891012853163      
+  time in time step =   0.609189000000015     
+ n =          524  of          554  time steps, t =    7.56334399111008      
+  time in time step =   0.611244999999997     
+ n =          525  of          554  time steps, t =    7.57777785368854      
+  time in time step =   0.611329000000012     
+ n =          526  of          554  time steps, t =    7.59221171626699      
+  time in time step =   0.610628999999960     
+ n =          527  of          554  time steps, t =    7.60664557884545      
+  time in time step =   0.610490000000027     
+ n =          528  of          554  time steps, t =    7.62107944142390      
+  time in time step =   0.610644999999977     
+ n =          529  of          554  time steps, t =    7.63551330400236      
+  time in time step =   0.610117000000002     
+ n =          530  of          554  time steps, t =    7.64994716658081      
+  time in time step =   0.611038000000008     
+ n =          531  of          554  time steps, t =    7.66438102915926      
+  time in time step =   0.612157000000025     
+ n =          532  of          554  time steps, t =    7.67881489173772      
+  time in time step =   0.609744999999975     
+ n =          533  of          554  time steps, t =    7.69324875431617      
+  time in time step =   0.611826000000008     
+ n =          534  of          554  time steps, t =    7.70768261689463      
+  time in time step =   0.610754999999983     
+ n =          535  of          554  time steps, t =    7.72211647947308      
+  time in time step =   0.611192000000017     
+ n =          536  of          554  time steps, t =    7.73655034205154      
+  time in time step =   0.610369999999989     
+ n =          537  of          554  time steps, t =    7.75098420462999      
+  time in time step =   0.610285999999974     
+ n =          538  of          554  time steps, t =    7.76541806720844      
+  time in time step =   0.611261000000013     
+ n =          539  of          554  time steps, t =    7.77985192978690      
+  time in time step =   0.610771000000000     
+ n =          540  of          554  time steps, t =    7.79428579236535      
+  time in time step =   0.610351000000037     
+ n =          541  of          554  time steps, t =    7.80871965494381      
+  time in time step =   0.611602000000005     
+ n =          542  of          554  time steps, t =    7.82315351752226      
+  time in time step =   0.610021000000017     
+ n =          543  of          554  time steps, t =    7.83758738010072      
+  time in time step =   0.612620999999990     
+ n =          544  of          554  time steps, t =    7.85202124267917      
+  time in time step =   0.617269000000022     
+ n =          545  of          554  time steps, t =    7.86645510525763      
+  time in time step =   0.609757000000002     
+ n =          546  of          554  time steps, t =    7.88088896783608      
+  time in time step =   0.611024999999984     
+ n =          547  of          554  time steps, t =    7.89532283041453      
+  time in time step =   0.611711000000014     
+ n =          548  of          554  time steps, t =    7.90975669299299      
+  time in time step =   0.610446999999965     
+ n =          549  of          554  time steps, t =    7.92419055557144      
+  time in time step =   0.611198000000002     
+ n =          550  of          554  time steps, t =    7.93862441814990      
+  time in time step =   0.610009999999988     
+ n =          551  of          554  time steps, t =    7.95305828072835      
+  time in time step =   0.611150000000009     
+ n =          552  of          554  time steps, t =    7.96749214330681      
+  time in time step =   0.609944999999982     
+ n =          553  of          554  time steps, t =    7.98192600588526      
+  time in time step =   0.611041999999998     
+ n =          554  of          554  time steps, t =    7.99635986846371      
+  time in time step =   0.611370999999963     
+
+Total MPI time      341.1031486     s

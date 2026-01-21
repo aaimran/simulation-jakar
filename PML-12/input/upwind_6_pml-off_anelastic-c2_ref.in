@@ -15,7 +15,7 @@
  w_stride = 1,
  w_fault = F /
 
-&block_list = 'block_list_pml-off_hi-res_domain-double.txt'
+&block_list = 'block_list_pml-off_hi-res_ref.txt'
 
 
 ! boundary conditions

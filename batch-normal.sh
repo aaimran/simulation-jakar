@@ -29,6 +29,7 @@ CASE_NAME="upwind-drp_6_pml-off_elastic"
 mpirun -np 40 ../../build/./waveqlab3d ./input/${CASE_NAME}.in > ./output/${CASE_NAME}.out
 
 #-------------------- PML Off anelastic-c2
+
 CASE_NAME="traditional_6_pml-off_anelastic-c2"
 mpirun -np 40 ../../build/./waveqlab3d ./input/${CASE_NAME}.in > ./output/${CASE_NAME}.out
 CASE_NAME="upwind_6_pml-off_anelastic-c2"
@@ -39,6 +40,7 @@ mpirun -np 40 ../../build/./waveqlab3d ./input/${CASE_NAME}.in > ./output/${CASE
 
 
 #-------------------- PML On elastic
+
 CASE_NAME="traditional_6_pml-on_elastic"
 mpirun -np 40 ../../build/./waveqlab3d ./input/${CASE_NAME}.in > ./output/${CASE_NAME}.out
 
@@ -52,6 +54,7 @@ CASE_NAME="upwind-drp_6_pml-on_elastic"
 mpirun -np 40 ../../build/./waveqlab3d ./input/${CASE_NAME}.in > ./output/${CASE_NAME}.out
 
 #-------------------- PML On anelastic-c2
+
 CASE_NAME="traditional_6_pml-on_anelastic-c2"
 mpirun -np 40 ../../build/./waveqlab3d ./input/${CASE_NAME}.in > ./output/${CASE_NAME}.out
 
@@ -60,3 +63,19 @@ mpirun -np 40 ../../build/./waveqlab3d ./input/${CASE_NAME}.in > ./output/${CASE
 
 CASE_NAME="upwind-drp_6_pml-on_anelastic-c2"
 mpirun -np 40 ../../build/./waveqlab3d ./input/${CASE_NAME}.in > ./output/${CASE_NAME}.out
+
+#------------------- Reference simulation
+
+CASE_NAME="upwwind_6_pml-off_elastic_ref"
+mpirun -np 40 ../../build/./waveqlab3d ./input/${CASE_NAME}.in > ./output/${CASE_NAME}.out
+
+CASE_NAME="upwwind_6_pml-on_elastic_ref"
+mpirun -np 40 ../../build/./waveqlab3d ./input/${CASE_NAME}.in > ./output/${CASE_NAME}.out
+
+CASE_NAME="upwwind_6_pml-off_anelastic-c2_ref"
+mpirun -np 40 ../../build/./waveqlab3d ./input/${CASE_NAME}.in > ./output/${CASE_NAME}.out
+
+CASE_NAME="upwwind_6_pml-on_anelastic-c2_ref"
+mpirun -np 40 ../../build/./waveqlab3d ./input/${CASE_NAME}.in > ./output/${CASE_NAME}.out
+
+# End of script

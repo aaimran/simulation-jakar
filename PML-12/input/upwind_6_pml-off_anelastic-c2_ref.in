@@ -1,7 +1,7 @@
 ! waveqlab3d input file: test problem for mms on cartesian grid with friction
 
 &problem_list
- name = 'traditional_6_pml-off_anelastic-c2',
+ name = 'upwind_6_pml-off_anelastic-c2_ref',
  problem = 'TPV5',
  nblocks = 2,
  t_final =  8d0,
@@ -9,18 +9,19 @@
  coupling='locked',
  type_of_mesh='cartesian',
  material_source='hardcode',
- fd_type = 'traditional',
+ fd_type = 'upwind',
  order = 6,
  response = 'anelastic',
  w_stride = 1,
  w_fault = F /
 
-&block_list = 'block_list_pml-off_hi-res.txt'
+&block_list = 'block_list_pml-off_hi-res_domain-double.txt'
+
 
 ! boundary conditions
-! 0 = Material Interface
-! 1 = Characteristics (absorbing / non-reflecting)
-! 2 = Free surface
+0 = Material Interface
+1 = Characteristics (absorbing / non-reflecting)
+2 = Free surface
 
 &moment_list
  use_moment_tensor = T,
@@ -69,7 +70,6 @@
  plane_name(1) = 'y0',
  plane_file_directory = 'P',
  plane_stride = 1 /
-
 
 
 
